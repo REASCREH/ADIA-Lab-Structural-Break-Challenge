@@ -1,0 +1,9 @@
+# frozen using pypi
+
+crunch-cli
+joblib
+lightgbm==4.6.0
+numpy
+pandas
+scikit-learn==1.7.2
+scipy
